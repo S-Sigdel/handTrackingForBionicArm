@@ -8,3 +8,6 @@ Used Board: Arduino UNO
 Python:
 Used interpeter version: 3.10
 Major Packages used: cvzone(1.5.6), mediapipe(0.9.0.1), pyserial(3.5)
+
+Circuit Diagram: https://www.tinkercad.com/things/gs4wmDbEdW8-brave-habbi-kup/editel
+3d files: https://inmoov.fr/hand-and-forarm/
